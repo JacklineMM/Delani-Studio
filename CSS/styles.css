@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+  }
+
+  .welcome {
+    background-size: cover;
+    text-align: center;
+    color: white;
+  }
+
+  .about_us {
+    text-align: center;
+    color: black;
+    font-size: smaller;
+    font-family: sans-serif;
+  }
