@@ -7,3 +7,14 @@ $(document).ready(function() {
       $(this).find("h4").toggleClass("bold");
     });
   });
+
+  $(document).ready(function() {
+    $(".portfolio_item").hover(
+      function() {
+        $(this).find(".portfolio_overlay").css("opacity", "1");
+      },
+      function() {
+        $(this).find(".portfolio_overlay").css("opacity", "0");
+      }
+    );
+  });
