@@ -7,16 +7,17 @@ Jackline M Mutegi
 https://github.com/JacklineMM/Delani-Studio
 
 ## Screenshot
-<img src="Images/delani.PNG" alt="Delani studio welcome section" style="height: 900px; width:400px;">
+<img src="Images/delani.PNG" alt="Delani studio welcome section" style="height: 200px; width:200px;">
 
 ## Setup.
-Open terminal {Ctrl+Alt+T}
-git clone https://github.com/JacklineMM/Delani-Studio.git
-extract the file.
-cd to the Delani-studio directory.
-Open the ``index.html`` on your favorite browser.
+* Open terminal {Ctrl+Alt+T}
+* git clone https://github.com/JacklineMM/Delani-Studio.git
+* extract the file.
+* cd to the Delani-studio directory.
+* Open the ``index.html`` on your favorite browser.
+
 ## Behavior Driven Development
-<img src="Images/DelaniBDD" alt="Delani studio BDD" style="height: 900px; width:400px;">
+<img src="Images/DelaniBDD" alt="Delani studio BDD">
 
 ## Technologies used.
 * Html
