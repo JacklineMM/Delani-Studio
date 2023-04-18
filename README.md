@@ -1,38 +1,30 @@
 # DELANI STUDIO
-
-​
 ## Description.
 This is a web application for Delani studio which gives a detailed account about who they are, what services they offer, a portfolio section with projects they have done and a contact form that allows users to send in their feedback or ask questions.
-
-
 ## Author.
- > Jackline M Mutegi
+Jackline M Mutegi
+## live Page
+https://github.com/JacklineMM/Delani-Studio
 
- ## Screenshot
- <img src="Images/delani.PNG" alt="Delani studio welcome section" style="height: 100px; width:100px;">
+## Screenshot
+<img src="Images/delani.PNG" alt="Delani studio welcome section" style="height: 900px; width:400px;">
 
- ## Setup.
- >Open terminal {Ctrl+Alt+T}
+## Setup.
+Open terminal {Ctrl+Alt+T}
+git clone https://github.com/JacklineMM/Delani-Studio.git
+extract the file.
+cd to the Delani-studio directory.
+Open the ``index.html`` on your favorite browser.
+## Behavior Driven Development
+<img src="Images/DelaniBDD" alt="Delani studio BDD" style="height: 900px; width:400px;">
 
- > git clone https://github.com/Eva-Mutuku/Delani-Studio.git
- 
- > extract the file.
- 
- > cd to the Delani-studio directory.
- 
- > Open the ``index.html`` on your favorite browser.
-
- 
- ## Behavior Driven Development
-  <img scr="Images/DelaniBDD.png" alt="BDD">
-​
 ## Technologies used.
-  * Html
-  * Bootstrap
-  * Css
-  * Javascript
-  * Jquery
-  * Markdown
+* Html
+* Bootstrap
+* Css
+* Javascript
+* Jquery
+* Markdown
 ​
 ## Known Bugs
 * No known bugs.
