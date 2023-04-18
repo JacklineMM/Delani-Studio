@@ -7,7 +7,7 @@ Jackline M Mutegi
 https://github.com/JacklineMM/Delani-Studio
 
 ## Screenshot
-<img src="Images/delani.PNG" alt="Delani studio welcome section" style="height: 200px; width:200px;">
+<img src="Images/delani.PNG" alt="Delani studio welcome section" style="height: 400px; width:500px;">
 
 ## Setup.
 * Open terminal {Ctrl+Alt+T}
@@ -17,7 +17,7 @@ https://github.com/JacklineMM/Delani-Studio
 * Open the ``index.html`` on your favorite browser.
 
 ## Behavior Driven Development
-<img src="Images/DelaniBDD" alt="Delani studio BDD">
+![program behaviour](./Images/DelaniBDD.png) 
 
 ## Technologies used.
 * Html
