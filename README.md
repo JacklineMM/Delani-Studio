@@ -2,12 +2,15 @@
 
 ​
 ## Description.
-A webpage for Delani studio which gives a detailed account about what they are, the services they offer, projects done so far and a contact page that the user can reach them to.
+This is a web application for Delani studio which gives a detailed account about who they are, what services they offer, a portfolio section with projects they have done and a contact form that allows users to send in their feedback or ask questions.
 
-​
+
 ## Author.
  > Jackline M Mutegi
-​
+
+ ## Screenshot
+ <img src="Images/delani.PNG" alt="Delani studio welcome section" style="height: 100px; width:100px;">
+
  ## Setup.
  >Open terminal {Ctrl+Alt+T}
 
@@ -18,6 +21,8 @@ A webpage for Delani studio which gives a detailed account about what they are, 
  > cd to the Delani-studio directory.
  
  > Open the ``index.html`` on your favorite browser.
+
+ 
  ## Behavior Driven Development
  1. Under what we do, clicking on the image will toggle a paragraph explaining about the service.
  2. Hovering over each image will show a white box with the name of the image.
