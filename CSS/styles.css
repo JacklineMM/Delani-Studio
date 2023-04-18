@@ -14,3 +14,70 @@ body {
     font-size: smaller;
     font-family: sans-serif;
   }
+
+  .services {
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-size: smaller;
+    font-family: sans-serif;
+  }
+
+  .what-we-do-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .what-we-do-item {
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .what-we-do-item img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .what-we-do-item h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .what-we-do-item p {
+    font-size: 16px;
+    margin-top: 10px;
+    display: none;
+  }
+
+  .what-we-do-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .what-we-do-item {
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .what-we-do-item img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .what-we-do-item h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .what-we-do-item p {
+    font-size: 16px;
+    margin-top: 10px;
+    display: none;
+  }
+  
