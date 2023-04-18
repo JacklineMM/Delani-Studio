@@ -18,3 +18,21 @@ $(document).ready(function() {
       }
     );
   });
+
+  $(document).ready(function() {
+    // Add click event listener to submit button
+    $("#submit-btn").on("click", function() {
+      // Get input values
+      var name = $("#name").val();
+      var email = $("#email").val();
+      var message = $("#message").val();
+
+      // Show confirmation pop-up
+      alert(name + ", we have received your message. Thank you for reaching out to us.");
+
+      // Reset form fields
+      $("#name").val("");
+      $("#email").val("");
+      $("#message").val("");
+    });
+  });
